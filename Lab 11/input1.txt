@@ -1,0 +1,4 @@
+The number of words are 0
+length is 4
+The vowels are 1
+The consonents are 3
